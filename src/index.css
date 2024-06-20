@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#sidebar {
+  /* z-index: -22; */
+}
+#main {
+  /* z-index: 1111; */
+  /* width: 100%; */
+  /* background: red; */
+}
